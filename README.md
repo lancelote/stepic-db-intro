@@ -32,3 +32,6 @@ Code for Data Base Intro Stepic course
     - [Store Queries](week_2/store_queries.sql)
         - Сложные примеры объединений
         - `EXISTS` и `NOT EXISTS`
+    - [Store Example Addons](week2/store-examples-addons.sql)
+        - Изменение схемы
+        - `AUTO_INCREMENT`
