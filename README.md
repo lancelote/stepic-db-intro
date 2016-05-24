@@ -35,3 +35,12 @@ Code for Data Base Intro Stepic course
     - [Store Example Addons](week2/store-examples-addons.sql)
         - Изменение схемы
         - `AUTO_INCREMENT`
+        - `INSERT`
+        - `NOW`
+        - `UPDATE`
+        - `CALL` - вызов хранимой процедуры
+    - [Store SP Example](week2/store-sp-example.sql)
+        - `PROCEDURE` - хранимая процедура
+        - `DELIMERE` - когда закончится определения хранимой процедуры
+    - [Store Trigger Example](week2/store-trigger-example.sql)
+        - `TRIGGER` - примеп реализации триггера
