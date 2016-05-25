@@ -44,3 +44,4 @@ Code for Data Base Intro Stepic course
         - `DELIMERE` - когда закончится определения хранимой процедуры
     - [Store Trigger Example](week2/store-trigger-example.sql)
         - `TRIGGER` - примеп реализации триггера
+        - `OLD` и `NEW`
