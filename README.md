@@ -45,3 +45,7 @@ Code for Data Base Intro Stepic course
     - [Store Trigger Example](week2/store-trigger-example.sql)
         - `TRIGGER` - примеп реализации триггера
         - `OLD` и `NEW`
+- Week 3
+    - [Store Queries](week3/store_queries.sql)
+        - `ALTER TABLE`
+        - `CHECK`
