@@ -32,20 +32,24 @@ Code for Data Base Intro Stepic course
     - [Store Queries](week_2/store_queries.sql)
         - Сложные примеры объединений
         - `EXISTS` и `NOT EXISTS`
-    - [Store Example Addons](week2/store-examples-addons.sql)
+    - [Store Example Addons](week_2/store-examples-addons.sql)
         - Изменение схемы
         - `AUTO_INCREMENT`
         - `INSERT`
         - `NOW`
         - `UPDATE`
         - `CALL` - вызов хранимой процедуры
-    - [Store SP Example](week2/store-sp-example.sql)
+    - [Store SP Example](week_2/store-sp-example.sql)
         - `PROCEDURE` - хранимая процедура
         - `DELIMERE` - когда закончится определения хранимой процедуры
-    - [Store Trigger Example](week2/store-trigger-example.sql)
+    - [Store Trigger Example](week_2/store-trigger-example.sql)
         - `TRIGGER` - примеп реализации триггера
         - `OLD` и `NEW`
 - Week 3
-    - [Store Queries](week3/store_queries.sql)
+    - [Store Queries](week_3/store_queries.sql)
         - `ALTER TABLE`
         - `CHECK`
+- Week 6
+    - [Store Indexes](week_6/store_indexes.sql)
+        - `EXPLAIN`
+        - `CREATE INDEX`
